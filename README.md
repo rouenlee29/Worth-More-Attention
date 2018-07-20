@@ -8,5 +8,14 @@ We believe that there are many papers in AI/DL that go under the radar of most r
 ## Contributing
 Got a paper that you like a lot but it never got to see the light of day? Feel free to open up an [issue](https://github.com/Nurture-AI/Worth-More-Attention/issues) or [pull request](https://github.com/Nurture-AI/Worth-More-Attention/pulls) with the title of the paper and why you think it's a hidden gem. 
 
+- Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science [paper](https://nurture.ai/papers/scalable-training-of-artificial-neural-networks-with-adaptive-sparse-connectivity-inspired-by-network-science)
+- Self-Attention with Relative Position Representations [paper](https://nurture.ai/papers/self-attention-with-relative-position-representations)
+- Constituency Parsing with a Self-Attentive Encoder [paper](https://nurture.ai/papers/constituency-parsing-with-a-self-attentive-encoder)
+- Position-aware Self-attention with Relative Positional Encodings for Slot [paper](https://nurture.ai/papers/position-aware-self-attention-with-relative-positional-encodings-for-slot-filling)
+- Improving Language Understanding by Generative Pre-Training [paper](https://blog.openai.com/language-unsupervised/)
+- Learning to Segment Everything [paper](https://nurture.ai/papers/learning-to-segment-every-thing)
+- DrMAD: Distilling Reverse-Mode Automatic Differentiation for Optimizing Hyperparameters of Deep Neural Networks [paper](https://nurture.ai/papers/drmad-distilling-reverse-mode-automatic-differentiation-for-optimizing-hyperparameters-of-deep-neural-networks)
+
+
 ## Maintainers
 This list is currently maintained by the AI Reseach Team @Nurture.ai.
